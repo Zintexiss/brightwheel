@@ -50,7 +50,7 @@
     "del": "^3.0.0",
     "electron": "^1.6.11",
     "electron-mocha": "^4.0.0",
-    "eslint": "^4.3.0",
+    "eslint": "^7.0.0",
     "eslint-config-airbnb": "^15.1.0",
     "eslint-plugin-import": "^2.7.0",
     "eslint-plugin-jsx-a11y": "^6.0.2",
@@ -60,7 +60,7 @@
     "rollup": "^0.45.2",
     "rollup-plugin-babel": "^2.7.1",
     "sinon": "^2.4.1",
-    "standard": "^10.0.2"
+    "standard": "^14.3.2"
   },
   "scripts": {
     "lint": "node_modules/.bin/standard --recursive test && echo Linting passed",
